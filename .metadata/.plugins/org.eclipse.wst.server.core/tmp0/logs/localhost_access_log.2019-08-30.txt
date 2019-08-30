@@ -1,0 +1,13 @@
+127.0.0.1 - - [30/Aug/2019:13:21:09 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:21:10 +0900] "GET /TomcatHelloWorld/ HTTP/1.1" 404 1095
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:21:36 +0900] "GET /TomcatHelloWorld/ HTTP/1.1" 404 1095
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:22:20 +0900] "GET /TomcatHelloWorld/WebContent/helloworld.jsp HTTP/1.1" 404 1124
+127.0.0.1 - - [30/Aug/2019:13:23:10 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:23:17 +0900] "GET /TomcatHelloWorld/WebContent/helloworld.jsp HTTP/1.1" 404 1124
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:23:18 +0900] "GET /TomcatHelloWorld/WebContent/helloworld.jsp HTTP/1.1" 404 1124
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:23:34 +0900] "GET /TomcatHelloWorld/helloworld.jsp HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:23:34 +0900] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:23:36 +0900] "GET /TomcatHelloWorld/helloworld.jsp HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:23:36 +0900] "GET /TomcatHelloWorld/helloworld.jsp HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:23:36 +0900] "GET /TomcatHelloWorld/helloworld.jsp HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:13:23:37 +0900] "GET /TomcatHelloWorld/helloworld.jsp HTTP/1.1" 200 310

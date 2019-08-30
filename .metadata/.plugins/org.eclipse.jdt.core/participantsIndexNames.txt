@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\cldkr\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4067367151.index
+\TomcatHelloWorld\src
