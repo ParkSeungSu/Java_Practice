@@ -27,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="kr.ac.halla.h02404.Hashset"/>
 			<item value="kr.ac.halla.h02404.circle"/>
 			<item value="kr.ac.halla.h02404.App"/>
 			<item value="kr.ac.halla.h02404.helloworld"/>
@@ -35,6 +36,7 @@
 			<item value="kr.ac.halla.h02404"/>
 		</list>
 		<list key="artifactId">
+			<item value="Hashset"/>
 			<item value="circle"/>
 			<item value="App"/>
 			<item value="helloworld"/>
