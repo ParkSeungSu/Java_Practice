@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Iterator;
 
 public class lecture7 {
 
@@ -14,7 +15,7 @@ public class lecture7 {
 				("C:\\Users\\cldkr\\OneDrive\\문서\\GitHub\\Java_Practice\\FileInputOutput\\Email-EuAll.txt"));
 		HashSet<Integer> Sender=new HashSet<Integer>();
 		HashSet<Integer> Reciever=new HashSet<Integer>();
-		HashMap<Integer, Integer> hashmap=new HashMap<Integer, Integer>();
+		HashSet<Frequence> fre=new HashSet<Frequence>();
 		while (true) {
 			String Line = br.readLine();
 			if (Line == null)
@@ -24,8 +25,23 @@ public class lecture7 {
 				continue;
 			// \t
 			String[] arr1 = Line.split("\t");
-			Sender.add(Integer.parseInt(arr1[0]));
+			int send=Integer.parseInt(arr1[0]);
+			Sender.add(send);
+			//freauence값을 찹아봐서 left가 있다면 카운트만 올려준다.
+			//없으면 저장
+			Iterator<Frequence> iter=fre.iterator();
+			boolean exist = false;
+			while(iter.hasNext()) {
+				Frequence freq=iter.next();
+				if(freq.getId()==send) {
+					freq.setFrequece(1);
+				}else {
+					freq.setId(send);
+					freq.setFrequece(1);
+				}
+			}
 			Reciever.add(Integer.parseInt(arr1[1]));
+			
 			
 		}
 		HashSet<Integer> CopySender=new HashSet<Integer>(Sender);
@@ -46,7 +62,8 @@ public class lecture7 {
 		Reciever.removeAll(Sender);
 		System.out.println(Reciever.size()+"명");
 		Reciever=CopyReciever;
-		
+		//등장횟수 힌트 ID 몇번 등장?
+		br.close();
 	}
 
 }
