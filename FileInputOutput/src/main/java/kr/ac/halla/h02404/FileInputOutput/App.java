@@ -15,21 +15,22 @@ public class App {
 		BufferedReader br = new BufferedReader(new FileReader(
 				"C:\\Users\\cldkr\\OneDrive\\문서\\GitHub\\Java_Practice\\FileInputOutput\\Email-EuAll.txt"));
 		// 버퍼기능이 생긴 리더가 생긴것이다~
-		BufferedWriter bw = new BufferedWriter(new FileWriter(
-				"C:\\Users\\cldkr\\OneDrive\\문서\\GitHub\\Java_Practice\\FileInputOutput\\Email-.txt"));
+		BufferedWriter bw = new BufferedWriter(
+				new FileWriter("C:\\Users\\cldkr\\OneDrive\\문서\\GitHub\\Java_Practice\\FileInputOutput\\Email-.txt"));
 		while (true) {
-			String Line=br.readLine();
-			if (Line == null) {
+			String Line = br.readLine();
+			if (Line == null)
 				break;
-			//#으로 시작하면 무시
-			if(Line.startsWith("#"))
-					continue;
+
+			// #으로 시작하면 무시
+			if (Line.startsWith("#"))
+				continue;
 			// \t
-			String[] arr1=Line.split("\t");
+			String[] arr1 = Line.split("\t");
 			System.out.println(Line);
 		}
 		bw.write("Park Seung Su");
-		
+
 		br.close();
 		bw.close();
 	}
