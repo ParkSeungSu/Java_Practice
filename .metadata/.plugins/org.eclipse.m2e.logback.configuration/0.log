@@ -1561,3 +1561,12 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2019-09-27 12:57:06,461 [Worker-59: Launching lecture7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
 2019-09-27 12:57:06,461 [Worker-59: Launching lecture7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-09-27 12:57:06,467 [Worker-59: Launching lecture7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-09 13:54:22,558 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-09 14:10:25,072 [Worker-19: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-09 14:10:25,072 [Worker-19: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-09 14:10:25,087 [Worker-19: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-09 14:10:25,087 [Worker-19: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-09 14:58:58,839 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-09 14:58:58,839 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-09 14:58:58,841 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-09 14:58:58,842 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources

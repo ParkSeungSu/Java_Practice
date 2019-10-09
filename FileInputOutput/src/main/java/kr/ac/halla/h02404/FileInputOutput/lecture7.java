@@ -79,7 +79,7 @@ public class lecture7 {
 		Sender = CopySender;
 		System.out.println("받기만 한 사람");
 		Reciever.removeAll(Sender);
-		System.out.println(Reciever.size() + "명");
+		System.out.println(Reciever.size() + "명");  
 		Reciever = CopyReciever;
 		// 등장횟수 힌트 ID 몇번 등장?
 		while(iterator.hasNext()) {
