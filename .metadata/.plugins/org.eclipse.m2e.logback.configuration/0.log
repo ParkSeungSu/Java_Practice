@@ -1570,3 +1570,201 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2019-10-09 14:58:58,839 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
 2019-10-09 14:58:58,841 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-10-09 14:58:58,842 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 14:11:13,828 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-10 14:12:51,797 [Worker-13: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 14:12:51,797 [Worker-13: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 14:12:51,797 [Worker-13: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 14:12:51,797 [Worker-13: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 14:15:54,901 [Worker-6: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 14:15:54,901 [Worker-6: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 14:15:54,901 [Worker-6: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 14:15:54,901 [Worker-6: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 14:16:14,523 [Worker-16: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 14:16:14,523 [Worker-16: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 14:16:14,523 [Worker-16: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 14:16:14,523 [Worker-16: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 14:36:27,065 [Worker-5: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 14:36:27,065 [Worker-5: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 14:36:27,065 [Worker-5: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 14:36:27,190 [Worker-5: Launching hashMap2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 14:55:33,356 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-10 15:18:03,096 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:18:03,096 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:18:03,096 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:18:03,096 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:22:29,929 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:22:29,929 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:22:29,929 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:22:29,929 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:23:09,728 [Worker-17: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:23:09,728 [Worker-17: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:23:09,728 [Worker-17: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:23:09,728 [Worker-17: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:25:15,179 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:25:15,179 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:25:15,179 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:25:15,195 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:26:44,899 [Worker-20: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:26:44,899 [Worker-20: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:26:44,899 [Worker-20: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:26:44,899 [Worker-20: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:27:44,252 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:27:44,252 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:27:44,267 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:27:44,267 [Worker-18: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:33:05,982 [Worker-6: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:33:05,982 [Worker-6: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:33:05,997 [Worker-6: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:33:05,997 [Worker-6: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:34:15,190 [Worker-20: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:34:15,206 [Worker-20: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:34:15,206 [Worker-20: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:34:15,206 [Worker-20: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:39:15,206 [Worker-21: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:39:15,206 [Worker-21: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:39:15,207 [Worker-21: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:39:15,213 [Worker-21: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:40:52,498 [Worker-22: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:40:52,504 [Worker-22: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:40:52,510 [Worker-22: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:40:52,515 [Worker-22: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:43:47,669 [Worker-25: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:43:47,669 [Worker-25: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:43:47,671 [Worker-25: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:43:47,677 [Worker-25: Launching lecture82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:49:24,411 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:49:24,419 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:49:24,426 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:49:24,432 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:50:49,773 [Worker-25: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:50:49,773 [Worker-25: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:50:49,773 [Worker-25: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:50:49,788 [Worker-25: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:57:09,293 [Worker-35: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:57:09,293 [Worker-35: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:57:09,309 [Worker-35: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:57:09,309 [Worker-35: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:57:43,832 [Worker-25: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:57:43,832 [Worker-25: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:57:43,832 [Worker-25: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:57:43,832 [Worker-25: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:57:59,346 [Worker-21: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:57:59,346 [Worker-21: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:57:59,346 [Worker-21: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:57:59,362 [Worker-21: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 15:58:13,534 [Worker-33: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:58:13,534 [Worker-33: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 15:58:13,550 [Worker-33: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 15:58:13,550 [Worker-33: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:10:53,876 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:10:53,892 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:10:53,892 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:10:53,892 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:11:10,981 [Worker-41: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:11:10,981 [Worker-41: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:11:10,981 [Worker-41: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:11:10,996 [Worker-41: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:11:27,308 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:11:27,308 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:11:27,324 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:11:27,324 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:11:36,785 [Worker-35: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:11:36,785 [Worker-35: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:11:36,785 [Worker-35: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:11:36,800 [Worker-35: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:13:05,972 [Worker-41: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:13:05,988 [Worker-41: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:13:05,988 [Worker-41: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:13:06,003 [Worker-41: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:14:15,966 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:14:15,966 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:14:15,966 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:14:15,966 [Worker-38: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:17:26,204 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:17:26,204 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:17:26,220 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:17:26,220 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:19:17,901 [Worker-44: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:19:17,901 [Worker-44: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:19:17,901 [Worker-44: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:19:17,917 [Worker-44: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:22:14,558 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:22:14,558 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:22:14,574 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:22:14,574 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:23:46,793 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:23:46,793 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:23:46,793 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:23:46,809 [Worker-42: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:24:01,127 [Worker-43: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:24:01,127 [Worker-43: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:24:01,127 [Worker-43: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:24:01,143 [Worker-43: Launching arrayList] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:31:38,209 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:31:38,209 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:31:38,209 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:31:38,225 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:33:42,918 [Worker-50: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:33:42,918 [Worker-50: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:33:42,933 [Worker-50: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:33:42,933 [Worker-50: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:37:11,683 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:37:11,683 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:37:11,683 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:37:11,683 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:40:15,940 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:40:15,940 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:40:15,940 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:40:15,972 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:41:18,755 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:41:18,755 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:41:18,755 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:41:18,755 [Worker-52: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:44:49,348 [Worker-54: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:44:49,363 [Worker-54: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:44:49,363 [Worker-54: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:44:49,379 [Worker-54: Launching lecture93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:46:03,191 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:46:03,191 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:46:03,191 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:46:03,207 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:50:36,297 [Worker-50: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:50:36,297 [Worker-50: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:50:36,312 [Worker-50: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:50:36,312 [Worker-50: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:51:47,103 [Worker-54: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:51:47,103 [Worker-54: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:51:47,103 [Worker-54: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:51:47,103 [Worker-54: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:52:48,243 [Worker-57: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:52:48,243 [Worker-57: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:52:48,259 [Worker-57: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:52:48,259 [Worker-57: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:53:09,378 [Worker-52: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:53:09,378 [Worker-52: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:53:09,393 [Worker-52: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:53:09,393 [Worker-52: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:53:37,834 [Worker-58: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:53:37,834 [Worker-58: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:53:37,850 [Worker-58: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:53:37,850 [Worker-58: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:55:53,913 [Worker-52: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:55:53,913 [Worker-52: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:55:53,913 [Worker-52: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:55:53,913 [Worker-52: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:56:33,760 [Worker-58: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:56:33,760 [Worker-58: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:56:33,776 [Worker-58: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:56:33,776 [Worker-58: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:56:57,529 [Worker-56: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:56:57,529 [Worker-56: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:56:57,529 [Worker-56: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:56:57,545 [Worker-56: Launching queueLecture94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:58:24,606 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:58:24,611 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:58:24,617 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:58:24,617 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
+2019-10-10 16:58:30,529 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:58:30,529 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\main\resources
+2019-10-10 16:58:30,529 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-10 16:58:30,545 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\FileInputOutput\src\test\resources
