@@ -27,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="kr.ac.halla.h02404.Algori"/>
 			<item value="kr.ac.halla.h02404.lecture"/>
 			<item value="kr.ac.halla.h02404.Hashset"/>
 			<item value="kr.ac.halla.h02404.circle"/>
@@ -37,6 +38,7 @@
 			<item value="kr.ac.halla.h02404"/>
 		</list>
 		<list key="artifactId">
+			<item value="Algori"/>
 			<item value="lecture"/>
 			<item value="Hashset"/>
 			<item value="circle"/>
