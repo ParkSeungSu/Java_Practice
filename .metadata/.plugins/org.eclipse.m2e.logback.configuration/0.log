@@ -2348,3 +2348,123 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2019-10-20 16:58:43,528 [Worker-169: Launching Heap] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-10-20 16:58:43,535 [Worker-169: Launching Heap] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
 2019-10-21 14:44:11,400 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-21 14:53:50,082 [Worker-19: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 14:53:50,083 [Worker-19: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 14:53:50,084 [Worker-19: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 14:53:50,085 [Worker-19: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 14:56:54,795 [Worker-22: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 14:56:54,795 [Worker-22: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 14:56:54,797 [Worker-22: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 14:56:54,797 [Worker-22: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:02:36,326 [Worker-24: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:02:36,326 [Worker-24: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:02:36,327 [Worker-24: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:02:36,327 [Worker-24: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:03:31,998 [Worker-28: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:03:31,998 [Worker-28: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:03:31,999 [Worker-28: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:03:32,005 [Worker-28: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:05:18,321 [Worker-27: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:05:18,321 [Worker-27: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:05:18,322 [Worker-27: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:05:18,332 [Worker-27: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:06:35,113 [Worker-33: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:06:35,120 [Worker-33: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:06:35,129 [Worker-33: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:06:35,135 [Worker-33: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:08:59,396 [Worker-24: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:08:59,396 [Worker-24: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:08:59,397 [Worker-24: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:08:59,403 [Worker-24: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:11:23,762 [Worker-34: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:11:23,769 [Worker-34: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:11:23,779 [Worker-34: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:11:23,786 [Worker-34: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:13:39,092 [Worker-34: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:13:39,092 [Worker-34: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:13:39,093 [Worker-34: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:13:39,099 [Worker-34: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:18:14,222 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:18:14,228 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:18:14,238 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:18:14,245 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:20:22,941 [Worker-46: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:20:22,941 [Worker-46: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:20:22,943 [Worker-46: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:20:22,953 [Worker-46: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:22:04,384 [Worker-46: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:22:04,389 [Worker-46: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:22:04,396 [Worker-46: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:22:04,402 [Worker-46: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:25:29,772 [Worker-47: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:25:29,772 [Worker-47: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:25:29,774 [Worker-47: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:25:29,783 [Worker-47: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:26:30,294 [Worker-45: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:26:30,300 [Worker-45: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:26:30,307 [Worker-45: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:26:30,313 [Worker-45: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:27:05,400 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:27:05,400 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:27:05,401 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:27:05,407 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:27:36,256 [Worker-45: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:27:36,262 [Worker-45: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:27:36,270 [Worker-45: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:27:36,277 [Worker-45: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:28:11,264 [Worker-40: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:28:11,264 [Worker-40: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:28:11,265 [Worker-40: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:28:11,271 [Worker-40: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:28:19,573 [Worker-48: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:28:19,584 [Worker-48: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:28:19,594 [Worker-48: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:28:19,600 [Worker-48: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:29:06,827 [Worker-48: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:29:06,827 [Worker-48: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:29:06,828 [Worker-48: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:29:06,834 [Worker-48: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:30:09,641 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:30:09,648 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:30:09,654 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:30:09,661 [Worker-43: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:32:31,372 [Worker-38: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:32:31,373 [Worker-38: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:32:31,373 [Worker-38: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:32:31,380 [Worker-38: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:32:52,215 [Worker-50: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:32:52,221 [Worker-50: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:32:52,227 [Worker-50: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:32:52,233 [Worker-50: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:34:30,650 [Worker-50: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:34:30,650 [Worker-50: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:34:30,651 [Worker-50: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:34:30,657 [Worker-50: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:40:55,582 [Worker-53: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:40:55,588 [Worker-53: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:40:55,594 [Worker-53: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:40:55,600 [Worker-53: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:41:30,980 [Worker-53: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:41:30,980 [Worker-53: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:41:30,981 [Worker-53: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:41:30,987 [Worker-53: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:42:03,824 [Worker-62: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:42:03,832 [Worker-62: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:42:03,839 [Worker-62: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:42:03,845 [Worker-62: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:42:54,881 [Worker-63: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:42:54,881 [Worker-63: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:42:54,882 [Worker-63: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:42:54,888 [Worker-63: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:45:42,271 [Worker-59: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:45:42,278 [Worker-59: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:45:42,286 [Worker-59: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:45:42,295 [Worker-59: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:48:08,578 [Worker-60: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:48:08,578 [Worker-60: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:48:08,579 [Worker-60: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:48:08,589 [Worker-60: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources
+2019-10-21 15:51:49,535 [Worker-65: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:51:49,543 [Worker-65: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\main\resources
+2019-10-21 15:51:49,550 [Worker-65: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-21 15:51:49,557 [Worker-65: Launching RectangleSize] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cldkr\OneDrive\문서\GitHub\Java_Practice\Algori\src\test\resources

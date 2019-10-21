@@ -12,6 +12,8 @@ import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;
 public class RectangleSize {
 	static int W;
 	static int H;
+	static int col;
+
 	// 표시된 히스토그램에서 최대 영역을 찾는다
 	private static int maxHist(int R, int C, int row[]) {
 		// 빈 스택을 만든다. 이 스택은 배열의 hist(히스토그램 배열) array를 가진다.
@@ -35,16 +37,17 @@ public class RectangleSize {
 				// 스택의 맨 앞에있는 요소는 '왼쪽 인덱스'입니다.
 				top_val = row[result.peek()];
 				result.pop();
-				weight=i;
+				weight = i;
 				area = top_val * weight;
 				if (!result.isEmpty()) {
-					weight=(i - result.peek() - 1);
-					area = top_val *weight;
+					weight = (i - result.peek() - 1);
+					area = top_val * weight;
 				}
-				if(area>max_area) {
+				if (area > max_area) {
 					max_area = area;
-					H=top_val;
-					W=weight;
+					H = top_val;
+					W = weight;
+					col = i;
 				}
 			}
 		}
@@ -52,14 +55,17 @@ public class RectangleSize {
 		while (!result.isEmpty()) {
 			top_val = row[result.peek()];
 			result.pop();
-			weight=i;
+			weight = i;
 			area = top_val * weight;
 			if (!result.isEmpty()) {
-				weight=(i - result.peek() - 1);
+				weight = (i - result.peek() - 1);
 				area = top_val * weight;
 			}
-			if(area>max_area) {
-				max_area=area;
+			if (area > max_area) {
+				max_area = area;
+				H = top_val;
+				W = weight;
+				col = i;
 			}
 		}
 		return max_area;
@@ -70,7 +76,7 @@ public class RectangleSize {
 	private static int maxRectangle(int R, int C, int A[][]) {
 		// 첫번째 열의 영역을 계산하고 이것을 result에 초기화 한다.
 		int result = maxHist(R, C, A[0]);
-		System.out.println(Arrays.toString(A[0])+":"+result+" 가로 :"+W+" 세로 : "+H);
+		System.out.println(Arrays.toString(A[0]) + ":" + result + " 가로 :" + W + " 세로 : " + H);
 		// 각 행을 히스토그램으로 고려하여 최대 직사각형 영역을 찾기 위해 행을 순회
 		for (int i = 1; i < R; i++) {
 			for (int j = 0; j < C; j++) {
@@ -78,24 +84,30 @@ public class RectangleSize {
 				if (A[i][j] == 1)
 					A[i][j] += A[i - 1][j];
 			}
-			result=Math.max(result, maxHist(R, C, A[i]));
-			System.out.println(Arrays.toString(A[i])+":"+result+" 가로 :"+W+" 세로 : "+H);
-			
+			int temp = maxHist(R, C, A[i]);
+			if (temp > result) {
+				result = temp;
+				System.out.println(Arrays.toString(A[i]) + "area:" + result + " 세로길이:" + H + " 가로길이 : " + W + " From("
+						+ (i - H + 1) + "," + (col - W) + ")");
+			} else {
+				System.out.println(Arrays.toString(A[i]));
+			}
 		}
 		return result;
 
 	}
 
 	public static void main(String[] args) {
-		Random random=new Random();
-		int R=random.nextInt(26)+5;
-		int C=random.nextInt(26)+5;
-		
-		int A[][]= new int[R][C];
-		for(int i=0;i<R;i++) {
-			for(int j=0;j<C;j++) {
-				A[i][j]=random.nextInt(2);
-			}System.out.println(Arrays.toString(A[i]));
+		Random random = new Random();
+		int R = random.nextInt(26) + 5;
+		int C = random.nextInt(26) + 5;
+
+		int A[][] = new int[R][C];
+		for (int i = 0; i < R; i++) {
+			for (int j = 0; j < C; j++) {
+				A[i][j] = random.nextInt(2);
+			}
+			System.out.println(Arrays.toString(A[i]));
 		}
 		System.out.println(A.length);
 		System.out.println(A[1].length);
