@@ -1,11 +1,8 @@
 package kr.ac.halla.h02404.Algori;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Stack;
-
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;
 
 //Java program 1로만 이루어진 가장 큰 사각형 찾기
 //배열 안에서
@@ -76,7 +73,8 @@ public class RectangleSize {
 	private static int maxRectangle(int R, int C, int A[][]) {
 		// 첫번째 열의 영역을 계산하고 이것을 result에 초기화 한다.
 		int result = maxHist(R, C, A[0]);
-		System.out.println(Arrays.toString(A[0]) + ":" + result + " 가로 :" + W + " 세로 : " + H);
+		System.out.println(Arrays.toString(A[0]) + "area:" + result + " 세로길이:" + H + " 가로길이 : " + W + " From("
+				+ (0 - H + 1) + "," + (col - W) + ")");
 		// 각 행을 히스토그램으로 고려하여 최대 직사각형 영역을 찾기 위해 행을 순회
 		for (int i = 1; i < R; i++) {
 			for (int j = 0; j < C; j++) {
