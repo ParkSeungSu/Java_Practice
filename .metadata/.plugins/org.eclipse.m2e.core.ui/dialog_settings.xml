@@ -27,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="kr.ac.halla.h02404.ClickerGame"/>
 			<item value="kr.ac.halla.h02404.AfterMiterm"/>
 			<item value="kr.ac.halla.h02404.Algori"/>
 			<item value="kr.ac.halla.h02404.lecture"/>
@@ -39,6 +40,7 @@
 			<item value="kr.ac.halla.h02404"/>
 		</list>
 		<list key="artifactId">
+			<item value="ClickerGame"/>
 			<item value="AfterMiterm"/>
 			<item value="Algori"/>
 			<item value="lecture"/>
