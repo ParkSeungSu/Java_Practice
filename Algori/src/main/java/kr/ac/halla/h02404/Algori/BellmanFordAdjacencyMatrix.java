@@ -110,26 +110,28 @@ public class BellmanFordAdjacencyMatrix {
 			graph[i][i] = 0;
 		}
 
-		int e = r.nextInt(5) + 8;
+		int e = r.nextInt(n) + 8;
 		int count = 0;
 		int pi = 0;
 		int pj = 0;
 		while (true) {
 			if (count == n)
 				break;
-			int i = r.nextInt(n);
-			int j = r.nextInt(n);
-			int val = r.nextInt(19) - 9;
-			if (i == j)
-				continue;
-			if (pi == i && pj == j)
-				continue;
-			if (val == 0)
-				continue;
-			pi = i;
-			pj = j;
-			graph[i][j] = val;
-			count++;
+			else {
+				int i = r.nextInt(n);
+				int j = r.nextInt(n);
+				int val = r.nextInt(19) - 9;
+				if (i == j)
+					continue;
+				if (pi == i && pj == j)
+					continue;
+				if (val == 0)
+					continue;
+				pi = i;
+				pj = j;
+				graph[i][j] = val;
+				count++;
+			}
 
 		}
 		printArray(graph);
