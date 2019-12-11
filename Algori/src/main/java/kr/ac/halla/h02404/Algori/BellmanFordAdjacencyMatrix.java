@@ -5,11 +5,15 @@ import java.util.stream.Collectors;
 
 public class BellmanFordAdjacencyMatrix {
 
-	private int n, start;
+	private static int n;
+	private int start;
 	private boolean solved;
 	private double[] dist;
 	private Integer[] prev;
 	private double[][] matrix;
+	private static double[][] graph;
+	private static int node;
+	private static int e;
 
 //	Bellman-Ford 알고리즘의 구현.
 //	알고리즘은 시작 노드와 그래프에서 다른 모든 노드 사이의 최단 경로를 찾는다.
@@ -23,7 +27,6 @@ public class BellmanFordAdjacencyMatrix {
 		this.n = matrix.length;
 		this.start = start;
 		this.matrix = new double[n][n];
-
 		// 인자로 전달받은 인접행렬 을 복사한다.
 		for (int i = 0; i < n; i++)
 			this.matrix[i] = matrix[i].clone();
@@ -54,16 +57,12 @@ public class BellmanFordAdjacencyMatrix {
 	public void solve() {
 		if (solved)
 			return;
-
 		// 시작 노드가 0인 경우를 제외하고 모든 노드까지의 거리를 무한대로 초기화
-
 		dist = new double[n];
 		java.util.Arrays.fill(dist, Double.POSITIVE_INFINITY);
 		dist[start] = 0;
-
 		// 알고리즘이 종료 된 루 가장 짧은 경로 재구성이 가능한 prev 배열을 초기화
 		prev = new Integer[n];
-
 		// 각 정점에 대해 모든 간선에 변경 적용
 		for (int k = 0; k < n - 1; k++)
 			for (int i = 0; i < n; i++)
@@ -90,36 +89,37 @@ public class BellmanFordAdjacencyMatrix {
 	private static void printArray(double[][] a) {
 		for (int i = 0; i < a.length; i++) {
 			for (int j = 0; j < a[i].length; j++) {
-				System.out.print(a[i][j]);
+				if (a[i][j] == Double.NEGATIVE_INFINITY)
+					System.out.printf("%4s", "-∞");
+				else if (a[i][j] == Double.POSITIVE_INFINITY)
+					System.out.printf("%4s", "∞");
+				else
+					System.out.printf("%4.1f", a[i][j]);
+
 				if (j < a[i].length - 1) {
-					System.out.print(", ");
+					System.out.print(",");
 				}
 			}
 			System.out.println("");
 		}
 	}
 
-	public static void main(String[] args) {
+	private static void generateArray() {
 		Random r = new Random();
-		int n = r.nextInt(5) + 3;
-		double[][] graph = new double[n][n];
-
 		// 노드에서 자기자신 까지의 거리가 0인 상태에서 완전히 연결이 끊어진 그래프를 설정합니다.
-		for (int i = 0; i < n; i++) {
+		for (int i = 0; i < node; i++) {
 			java.util.Arrays.fill(graph[i], Double.POSITIVE_INFINITY);
 			graph[i][i] = 0;
 		}
-
-		int e = r.nextInt(n) + 8;
 		int count = 0;
 		int pi = 0;
 		int pj = 0;
 		while (true) {
-			if (count == n)
+			if (count == e)
 				break;
 			else {
-				int i = r.nextInt(n);
-				int j = r.nextInt(n);
+				int i = r.nextInt(node);
+				int j = r.nextInt(node);
 				int val = r.nextInt(19) - 9;
 				if (i == j)
 					continue;
@@ -134,25 +134,37 @@ public class BellmanFordAdjacencyMatrix {
 			}
 
 		}
-		printArray(graph);
+	}
 
-		for (int start = 0; start < n; start++) {
-			BellmanFordAdjacencyMatrix solver;
+	public static void main(String[] args) {
+
+		Random r = new Random();
+		node = r.nextInt(5) + 3;
+		graph = new double[node][node];
+		e = r.nextInt(node) + node;
+		generateArray();
+		for (int ii = 0; ii < n; ii++) {
+			generateArray();
+		}
+		printArray(graph);
+		BellmanFordAdjacencyMatrix solver;
+		for (int start = 0; start < node; start++) {
 			solver = new BellmanFordAdjacencyMatrix(start, graph);
 			double[] d = solver.getShortestPaths();
-			for (int i = 0; i < n; i++)
-				System.out.printf("The cost to get from node %d to %d is %.2f\n", start, i, d[i]);
+			for (int i = 0; i < node; i++)
+				System.out.printf("%d 에서 %d 까지의 비용은  %.2f\n", start, i, d[i]);
 
-			for (int i = 0; i < n; i++) {
+			for (int i = 0; i < node; i++) {
 				String strPath;
 				List<Integer> path = solver.reconstructShortestPath(i);
 				if (path == null) {
-					strPath = "Infinite number of shortest paths.";
+					strPath = " 음의 사이클 발생!";
+					System.out.println(start + " to " + i + strPath);
 				} else {
 					List<String> nodes = path.stream().map(Object::toString).collect(Collectors.toList());
 					strPath = String.join(" -> ", nodes);
+					System.out.printf("%d 에서 %d 경로 : [%s]\n", start, i, strPath);
 				}
-				System.out.printf("The shortest path from %d to %d is: [%s]\n", start, i, strPath);
 			}
 
 			System.out.println();

@@ -6,18 +6,24 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Vector;
 
+import javax.swing.JComboBox;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JList;
+import javax.swing.JSlider;
 import javax.swing.JTextField;
+import javax.swing.event.ChangeEvent;
+import javax.swing.event.ChangeListener;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
 public class Lecture102 extends JFrame{
 	private JTextField input;
 	private JList<String> output;
+	private JComboBox<String> output2;
 	private JLabel selected;
 	private Vector<String> list;
+	private JSlider slider;
 
 	public Lecture102() {
 		setTitle("JList 예제");
@@ -28,9 +34,13 @@ public class Lecture102 extends JFrame{
 		list = new Vector<String>();
 		input = new JTextField(30);
 		output = new JList<String>();
+		output2 = new JComboBox<String>();
+		slider=new JSlider(0,100,70);
 		selected = new JLabel("아직선택안됨");
 		c.add(input);
 		c.add(output);
+		c.add(output2);
+		c.add(slider);
 		c.add(selected);
 		input.addActionListener(new ActionListener() {	
 			
@@ -40,6 +50,7 @@ public class Lecture102 extends JFrame{
 				list.add(text);
 				// vector (list)를 setListData
 				output.setListData(list);
+				output2.addItem(text);
 				input.setText("");
 			}
 		});
@@ -48,6 +59,15 @@ public class Lecture102 extends JFrame{
 			public void valueChanged(ListSelectionEvent e) {
 				selected.setText(output.getSelectedValue());
 				
+			}
+		});
+		slider.addChangeListener(new ChangeListener() {
+			
+			public void stateChanged(ChangeEvent e) {
+			
+				selected.setText(String.valueOf(slider.getValue()));
+				list.add(String.valueOf(slider.getValue()));
+				output.setListData(list);
 			}
 		});
 		
