@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.awt.BorderLayout"/>
-<fullyQualifiedTypeName name="kr.ac.halla.h02404.AfterMiterm.Lecture51"/>
 <fullyQualifiedTypeName name="kr.ac.halla.h02404.AfterMiterm.Lecture52"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="kr.ac.halla.h02404.Algori.BellmanFord"/>
@@ -40,7 +38,6 @@
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="javax.swing.JLabel"/>
-<fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.Reader"/>
 <fullyQualifiedTypeName name="java.io.FileReader"/>
 <fullyQualifiedTypeName name="java.io.File"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="kr.ac.halla.h02404.AfterMiterm.IntegerSum"/>
 <fullyQualifiedTypeName name="kr.ac.halla.h02404.AfterMiterm.MyFunction"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.util.logging.Handler"/>
 </qualifiedTypeNameHistroy>
